@@ -42,6 +42,10 @@ body {
   opacity: 0;
 }
 
+.h1 {
+  background-color: #fff;
+}
+
 .panel.active {
   flex: 5;
 }
