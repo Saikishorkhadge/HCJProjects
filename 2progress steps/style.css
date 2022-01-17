@@ -36,6 +36,7 @@ body {
 
 .progress-container::before {
   content: '';
+  /* if you don't put above it won't work */
   background-color: var(--line-border-empty);
   position: absolute;
   top: 50%;
@@ -63,6 +64,7 @@ body {
   background-color: #fff;
   color: #999;
   border-radius: 50%;
+  /* to make a circle we need to use above */
   height: 30px;
   width: 30px;
   display: flex;
