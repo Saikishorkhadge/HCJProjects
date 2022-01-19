@@ -1,7 +1,9 @@
 # HCJProjects
+
 This repository had basic HTML, CSS, JAVASCRIPT projects
 
 Here are the links to the sites
+
 1. https://saikishorkhadge.github.io/HCJProjects/2progress%20steps/index.html
 
 2. https://saikishorkhadge.github.io/HCJProjects/Hidden%20search%20widget/index.html
@@ -10,3 +12,6 @@ Here are the links to the sites
 
 4. https://saikishorkhadge.github.io/HCJProjects/rotating%20post/index.html
 
+5. https://saikishorkhadge.github.io/HCJProjects/scroll_animation/index.html
+
+6. https://saikishorkhadge.github.io/HCJProjects/Blur_image_load/index.html
